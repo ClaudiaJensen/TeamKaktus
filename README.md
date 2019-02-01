@@ -4,8 +4,8 @@
 Gruppe 7 - Team Kaktus (GUL)
 
 Navn:
-Nur Salem
-Claudia Jensen
+Nur Salem,
+Claudia Jensen,
 Johnny van(Grøn)
 
 Team code of conduct:
