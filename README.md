@@ -19,3 +19,8 @@ Vi forventer at møde op hver fredag og forbedrede til review om mandagen. Vi er
 
 Konflikter:
 Vi snakker åbent med hinanden hvis der er noget der går os på. 
+
+Test, Maven and Travis Guidelines:
+https://docs.google.com/document/d/1REAAZufmbgZYCN03l6Y4i1M16A49Oqsvrq7Db86y0q8/edit
+
+
